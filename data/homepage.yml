@@ -1,0 +1,104 @@
+# Main Title
+main:
+  header:
+    title : "Policy Priorities & AI for SDGs" # Title Text
+    title2 : "(PPAISDG)" # Title Text
+    subtitle : "29 January to 2 February, 2024"
+    description : "Team registration deadline: *** " # Title Desc
+    button:
+      text: "About the challenge" # Button Text
+      url: "#about" # Button URL
+    button2:
+      text: "Register" # Button Text
+      url: "https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-bBEzyRxcihCrhDy0Gjny4lUN0w2OUI2U1c3SDJYRzY4RjRZQjZHMFpYNCQlQCN0PWcu" # Button URL
+
+
+
+# About the challenge
+about:
+  title: "The Challenge"
+  desc: "PPAI4SDG will gather 12 teams from around the world to engage in a challenge using open spending data, development indicators, and the Policy Priority Inference (PPI) framework.
+  The organisers would like to invite anyone interested in the intersection of artificial intelligence, open government data, and computational social science.
+  The event will count with a fantastic panel of research and policy experts who will evaluate the different policy-prioritisation strategies developed by the participating teams.
+  The winning team will be awarded a trip to London to visit The Alan Turing Institute and to attend its annual conference AIUK in March 2024."
+  
+  key_title: "Important dates"
+  key_1: "Registrations open: day month year time"
+  key_2: "Registrations close: day month year time"
+  key_3: "Notification of acceptance for teams: day month year"
+  key_4: "Opening event: Monday 29 January 2024"
+  key_5: "Challenge: Monday 29 January to Friday 2 February 2024"
+  key_6: "Closing event: Friday 9 February 2024"
+  
+  format_title: "Format"
+  format_desc: "The entire event will be hosted online and will be in English."
+  
+  size_title: "Event size"
+  size_desc: "Anyone registered can attend both the opening and closing events. However, a maximum of 12 teams will be able to take part of the data challenge."
+
+  selection_title: "Team selection criteria"
+  selection_desc: "We are seeking for a diverse pool of teams who would benefit in different ways from taking part of the data challenge.
+  Some of the potential participants may include consultants at international organisations conducting feasibility studies, 
+  analysts interested in evaluating governments at NGOs, civil servants involved in budgeting and planning, 
+  and researchers and graduate students performing impact evaluation among others. When selecting the participating teams, 
+  we will be paying special attention to the following criteria: "
+
+  selection_1: "The professional background and diversity of the team members"
+  selection_2: "Their motivation to take part of the data challenge"
+  selection_3: "The potential benefits that PPAI4SDG could to the team members and their organisations"
+
+  rules_title: "Rules"
+  rules_desc: "The challengers will be given a case study along with data on government expenditure and development indicators across the Sustainable Development Goals. 
+  They will be tasked with advising the government in terms of policy prioritisation strategies to achieve the SDGs. 
+  Such strategies may build on a diverse set of analyses such as benchmarking, gapping, feasibility assessment, bottleneck detection, accelerator discovery, impact evaluation, etc. 
+  The participating teams will employ the Policy Priority Inference online application to conduct such analyses and to justify the advised prioritisation strategy. 
+  Each team will submit an anonymised report on Friday 2 February 2024, which will be evaluated by the expert panellists. 
+  The winner will be announced during the closing event on 9 February 2024."
+
+
+  button:
+    enable: true
+    text: "Register"
+    url: "https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-bBEzyRxcihCrhDy0Gjny4lUN0w2OUI2U1c3SDJYRzY4RjRZQjZHMFpYNCQlQCN0PWcu"
+  image: "assets/img/ipad.png"
+
+
+# About PPI
+about_ppi:
+  title: "About Policy Priority Inference (PPI)"
+  desc: "PPI is a research programme aims at modelling the causal link between government expenditure and policy outcomes while accounting for 
+  the multidimensionality and complexity of development. 
+  It employs computational methods to overcome the limitations of coarse-grained data on development indicators and public spending."
+  desc_2: "PPI has developed as a collaboration between The Alan Turing Institute (London), the Centro de Investigación y Docencia Económica (Mexico City), 
+  and the United Nations Development Programme.
+  Its tools have supported development palning and impact evaluation across different government levels and domains.
+  The challengers of PPAI4SDG will make use the latest development of PPI–an online application with a graphical interface–to produce policy advise regarding the
+  policy prioritisation strategies.
+  Visit PPI's official page to learn more about its scientific outputs, policy applications, and analytic tools."
+
+  button:
+    enable: true
+    text: "More about PPI"
+    url: "https://policypriority.org"
+  image: "assets/img/ipad.png"
+
+
+
+# About panellists
+about_panel:
+  title: "Expert Panellists"
+  desc: "t asdfsafsfd"
+  image: "assets/img/ipad.png"
+
+
+
+# About team
+about_team:
+  title: "Organising Committee"
+  desc: "t asdfsafsfd"
+  
+  button:
+    enable: true
+    text: "Contact us"
+    url: "ppai4sdg@turing.ac.uk"
+image: "assets/img/ipad.png"

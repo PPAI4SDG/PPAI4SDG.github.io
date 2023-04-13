@@ -1,0 +1,59 @@
+baseURL = 'http://ppai4sdg.org/'
+languageCode = 'en-us'
+theme = 'graysx'
+title = 'Policy Priorities & AI for SDGs'
+
+## Site Settings
+[params]
+logo = "assets/img/logo.webp"
+favicon = "assets/favicon.png"
+
+# Info
+register = "sds"
+email = "ppai4sdg@turing.ac.uk"
+call = "Download the full call of PPAI4SDG"
+
+
+# Other
+
+# Startbootstrap Contact Form Token https://startbootstrap.com/solution/contact-forms
+# sbtoken = "TOKEN_HERE"
+
+
+
+
+## Menu Items
+[menu]
+
+  [[menu.main]]
+  name = "Challenge"
+  URL = "#about"
+  weight = 1
+
+  [[menu.main]]
+  name = "PPI"
+  URL = "#about_ppi"
+  weight = 2
+
+  [[menu.main]]
+  name = "Panel"
+  URL = "#about_panel"
+  weight = 3
+
+  [[menu.main]]
+  name = "Organisers"
+  URL = "#about_team"
+  weight = 4
+
+#  [[menu.main]]
+#  name = "Register"
+#  URL = "https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-bBEzyRxcihCrhDy0Gjny4lUN0w2OUI2U1c3SDJYRzY4RjRZQjZHMFpYNCQlQCN0PWcu"
+#  weight = 5
+
+
+
+
+# Credits
+
+# This theme is forked from: https://github.com/startbootstrap/startbootstrap-grayscale
+# This theme is forked by: https://github.com/akatiggerx04
