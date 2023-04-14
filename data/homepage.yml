@@ -1,17 +1,34 @@
 # Main Title
-main:
-  header:
-    title : "Policy Priorities & AI for SDGs" # Title Text
-    title2 : "(PPAISDG)" # Title Text
-    subtitle : "29 January to 2 February, 2024"
-    description : "Team registration deadline: *** " # Title Desc
-    button:
-      text: "About the challenge" # Button Text
-      url: "#about" # Button URL
-    button2:
-      text: "Register" # Button Text
-      url: "https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-bBEzyRxcihCrhDy0Gjny4lUN0w2OUI2U1c3SDJYRzY4RjRZQjZHMFpYNCQlQCN0PWcu" # Button URL
+#main:
+#  header:
+#    title : "Policy Priorities & AI for SDGs" # Title Text
+#    title2 : "(PPAI4SDG)" # Title Text
+#    subtitle : "29 January to 2 February, 2024"
+#    description : "Team registration deadline: *** " # Title Desc
+#    button:
+#      enable: true
+#      text: "About the challenge" # Button Text
+#      url: "#about" # Button URL
+#    button2:
+#      enable: true
+#      text: "Register" # Button Text
+#      url: "https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-bBEzyRxcihCrhDy0Gjny4lUN0w2OUI2U1c3SDJYRzY4RjRZQjZHMFpYNCQlQCN0PWcu" # Button URL
 
+
+# Cover
+cover:
+  title : "Policy Priorities & AI for SDGs" # Title Text
+  title2 : "(PPAI4SDG)" # Title Text
+  subtitle : "29 January to 2 February, 2024"
+  description : "Team registration deadline: *** " # Title Desc
+  button:
+    enable: true
+    text: "About the challenge" # Button Text
+    url: "#about" # Button URL
+  button2:
+    enable: true
+    text: "Register" # Button Text
+    url: "https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-bBEzyRxcihCrhDy0Gjny4lUN0w2OUI2U1c3SDJYRzY4RjRZQjZHMFpYNCQlQCN0PWcu" # Button URL
 
 
 # About the challenge
