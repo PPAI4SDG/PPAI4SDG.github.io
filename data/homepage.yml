@@ -28,7 +28,7 @@ cover:
   button2:
     enable: true
     text: "Register" # Button Text
-    url: "https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-bBEzyRxcihCrhDy0Gjny4lUN0w2OUI2U1c3SDJYRzY4RjRZQjZHMFpYNCQlQCN0PWcu" # Button URL
+    url: "#about" # https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-bBEzyRxcihCrhDy0Gjny4lUN0w2OUI2U1c3SDJYRzY4RjRZQjZHMFpYNCQlQCN0PWcu
 
 
 # About the challenge
@@ -76,8 +76,7 @@ about:
   button:
     enable: true
     text: "Register"
-    url: "https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-bBEzyRxcihCrhDy0Gjny4lUN0w2OUI2U1c3SDJYRzY4RjRZQjZHMFpYNCQlQCN0PWcu"
-  image: "assets/img/ipad.png"
+    url: "#about" #https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-bBEzyRxcihCrhDy0Gjny4lUN0w2OUI2U1c3SDJYRzY4RjRZQjZHMFpYNCQlQCN0PWcu
 
 
 # About PPI
@@ -97,7 +96,6 @@ about_ppi:
     enable: true
     text: "More about PPI"
     url: "https://policypriority.org"
-  image: "assets/img/ipad.png"
 
 
 
@@ -105,7 +103,6 @@ about_ppi:
 about_panel:
   title: "Expert Panellists"
   desc: "t asdfsafsfd"
-  image: "assets/img/ipad.png"
 
 
 
@@ -118,4 +115,3 @@ about_team:
     enable: true
     text: "Contact us"
     url: "ppai4sdg@turing.ac.uk"
-image: "assets/img/ipad.png"
