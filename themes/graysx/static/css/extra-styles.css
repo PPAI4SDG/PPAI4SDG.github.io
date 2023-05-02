@@ -1,0 +1,43 @@
+:root{
+	--heading-unit:2rem;
+	}
+
+@media screen and (min-width:768px){
+	:root{
+		--heading-unit:3rem;
+	}
+}
+
+body{
+	color:white;
+	
+}
+
+.about-section{
+	min-height:100vh;
+	padding-top:6rem;
+	padding-bottom:3rem;
+}
+
+.about-section:first-of-type{
+	padding-top:10rem;
+}
+
+.about-section p{
+	margin-bottom:1rem;	
+}
+
+h1{
+	font-size:calc(1.7 * var(--heading-unit));
+	max-width:768px;
+	margin:auto;
+}
+
+h2{
+	font-size:calc(1.1 * var(--heading-unit));
+}
+
+h3{
+	font-size:calc(0.7 * var(--heading-unit));
+	font-weight:bold;
+}
